@@ -92,6 +92,8 @@ N'oubliez pas de cliquer sur le bouton « Enregistrer les modifications ».
 
 Toutes les commandes d’un restaurant sont disponibles dans l’onglet “commande” du restaurant. Elles sont listées dans le volet gauche par date de traitement. Une commande possède un identifiant unique, un état (nouveau, validée, prête, annulée), une date de préparation avec un horaire, un résumé ainsi qu’un prix TTC. Cliquez sur un commande présente dans la liste pour afficher ses informations.
 
+![Commande]({{ "https://coursiersbordelais.fr/wp-content/uploads/2020/05/Commande-tableau.png" | relative_url }})
+
 Dans le volet de droite sont affichées les informations de la commande sélectionnée. Les plats y sont listés ainsi que le calcul des taxes. Enfin, les boutons permettent au restaurateur/administrateur d’accepter ou de refuser la commande. Après l'avoir indiqué "acceptée", le restaurateur doit indiquer que la commande est prête. Il peut encore à ce stade annuler la commande. Une fois que cette dernière a été notifiée comme prête, il n’est plus possible d’annuler une commande.
 
 ### Planning d’ouverture / fermeture du restaurant
